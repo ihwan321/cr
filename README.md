@@ -1,0 +1,2 @@
+# cr
+Mining cryptotab pro 
