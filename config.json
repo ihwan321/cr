@@ -1,0 +1,15 @@
+{
+    "auth": "gAAAAABek31viwLKkS0Pxch3JKb0lNbDSReSGX32KdrhxWWOhugkEpVG4nfiM5gdb-1kxX2aQEbNpWZ0bOapVL2E3PZCWi4OkMD9DUPZ4vw4dktT1_as4SU=",
+    "device": {
+        "3d9d28d9-d74a-612e-e194-f10ffaaeb6cc": {
+            "sdk": "24",
+            "manufacturer": "Sony",
+            "device": "C2105",
+            "model": "C2105",
+            "product": "C2105_1270-9079",
+            "hardware": "",
+            "board": "f50qvoia",
+            "brand": "Sony"
+        }
+    }
+}
